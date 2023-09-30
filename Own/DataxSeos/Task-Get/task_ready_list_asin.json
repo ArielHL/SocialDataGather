@@ -1,0 +1,52 @@
+{
+    "version": "0.1.20230825",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.1204 sec.",
+    "cost": 0,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "09291619-6489-0193-0000-e7eb038caa83",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.0562 sec.",
+            "cost": 0,
+            "result_count": 2,
+            "path": [
+                "v3",
+                "merchant",
+                "amazon",
+                "asin",
+                "tasks_ready"
+            ],
+            "data": {
+                "se_type": "shopping",
+                "api": "merchant",
+                "function": "asin",
+                "se": "amazon"
+            },
+            "result": [
+                {
+                    "id": "09281726-6489-0192-0000-638e5a34c042",
+                    "se": "amazon",
+                    "se_type": "shopping",
+                    "date_posted": "2023-09-28 14:26:17 +00:00",
+                    "tag": "",
+                    "endpoint_advanced": "/v3/merchant/amazon/asin/task_get/advanced/09281726-6489-0192-0000-638e5a34c042",
+                    "endpoint_html": "/v3/merchant/amazon/asin/task_get/html/09281726-6489-0192-0000-638e5a34c042"
+                },
+                {
+                    "id": "09291618-6489-0192-0000-76a16de5b854",
+                    "se": "amazon",
+                    "se_type": "shopping",
+                    "date_posted": "2023-09-29 13:18:47 +00:00",
+                    "tag": "",
+                    "endpoint_advanced": "/v3/merchant/amazon/asin/task_get/advanced/09291618-6489-0192-0000-76a16de5b854",
+                    "endpoint_html": "/v3/merchant/amazon/asin/task_get/html/09291618-6489-0192-0000-76a16de5b854"
+                }
+            ]
+        }
+    ]
+}

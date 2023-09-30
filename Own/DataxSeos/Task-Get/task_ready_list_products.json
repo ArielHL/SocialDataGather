@@ -1,0 +1,88 @@
+{
+    "version": "0.1.20230825",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.1001 sec.",
+    "cost": 0,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "09291624-6489-0210-0000-23df9542d485",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.0610 sec.",
+            "cost": 0,
+            "result_count": 6,
+            "path": [
+                "v3",
+                "merchant",
+                "amazon",
+                "products",
+                "tasks_ready"
+            ],
+            "data": {
+                "se_type": "organic",
+                "se": "amazon",
+                "api": "merchant",
+                "function": "products"
+            },
+            "result": [
+                {
+                    "id": "09281507-6489-0209-0000-5330592d8f25",
+                    "se": "amazon",
+                    "se_type": "organic",
+                    "date_posted": "2023-09-28 12:07:49 +00:00",
+                    "tag": "",
+                    "endpoint_advanced": "/v3/merchant/amazon/products/task_get/advanced/09281507-6489-0209-0000-5330592d8f25",
+                    "endpoint_html": "/v3/merchant/amazon/products/task_get/html/09281507-6489-0209-0000-5330592d8f25"
+                },
+                {
+                    "id": "09282223-6489-0209-0000-928fd95d053f",
+                    "se": "amazon",
+                    "se_type": "organic",
+                    "date_posted": "2023-09-28 19:23:23 +00:00",
+                    "tag": "",
+                    "endpoint_advanced": "/v3/merchant/amazon/products/task_get/advanced/09282223-6489-0209-0000-928fd95d053f",
+                    "endpoint_html": "/v3/merchant/amazon/products/task_get/html/09282223-6489-0209-0000-928fd95d053f"
+                },
+                {
+                    "id": "09282225-6489-0209-0000-3bcc32ff4737",
+                    "se": "amazon",
+                    "se_type": "organic",
+                    "date_posted": "2023-09-28 19:25:01 +00:00",
+                    "tag": "",
+                    "endpoint_advanced": "/v3/merchant/amazon/products/task_get/advanced/09282225-6489-0209-0000-3bcc32ff4737",
+                    "endpoint_html": "/v3/merchant/amazon/products/task_get/html/09282225-6489-0209-0000-3bcc32ff4737"
+                },
+                {
+                    "id": "09282235-6489-0209-0000-ee8a8edab860",
+                    "se": "amazon",
+                    "se_type": "organic",
+                    "date_posted": "2023-09-28 19:35:08 +00:00",
+                    "tag": "",
+                    "endpoint_advanced": "/v3/merchant/amazon/products/task_get/advanced/09282235-6489-0209-0000-ee8a8edab860",
+                    "endpoint_html": "/v3/merchant/amazon/products/task_get/html/09282235-6489-0209-0000-ee8a8edab860"
+                },
+                {
+                    "id": "09290215-6489-0209-0000-1e3f903d4765",
+                    "se": "amazon",
+                    "se_type": "organic",
+                    "date_posted": "2023-09-28 23:15:44 +00:00",
+                    "tag": "",
+                    "endpoint_advanced": "/v3/merchant/amazon/products/task_get/advanced/09290215-6489-0209-0000-1e3f903d4765",
+                    "endpoint_html": "/v3/merchant/amazon/products/task_get/html/09290215-6489-0209-0000-1e3f903d4765"
+                },
+                {
+                    "id": "09291622-6489-0209-0000-cdcf70df23c4",
+                    "se": "amazon",
+                    "se_type": "organic",
+                    "date_posted": "2023-09-29 13:22:50 +00:00",
+                    "tag": "",
+                    "endpoint_advanced": "/v3/merchant/amazon/products/task_get/advanced/09291622-6489-0209-0000-cdcf70df23c4",
+                    "endpoint_html": "/v3/merchant/amazon/products/task_get/html/09291622-6489-0209-0000-cdcf70df23c4"
+                }
+            ]
+        }
+    ]
+}

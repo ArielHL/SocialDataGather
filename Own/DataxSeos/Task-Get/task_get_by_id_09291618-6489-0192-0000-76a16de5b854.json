@@ -1,0 +1,193 @@
+{
+    "version": "0.1.20230825",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.0527 sec.",
+    "cost": 0,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "09291618-6489-0192-0000-76a16de5b854",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.0185 sec.",
+            "cost": 0,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "merchant",
+                "amazon",
+                "asin",
+                "task_get",
+                "advanced",
+                "09291618-6489-0192-0000-76a16de5b854"
+            ],
+            "data": {
+                "se_type": "shopping",
+                "api": "merchant",
+                "function": "asin",
+                "se": "amazon",
+                "location_name": "Germany",
+                "language_name": "English (United States)",
+                "asin": "B0BGWQBC87",
+                "device": "desktop",
+                "os": "windows"
+            },
+            "result": [
+                {
+                    "asin": "B0BGWQBC87",
+                    "type": "shopping",
+                    "se_domain": "amazon.de",
+                    "location_code": 2276,
+                    "language_code": "en_US",
+                    "check_url": "https://www.amazon.de/dp/B0BGWQBC87?language=en_US",
+                    "datetime": "2023-09-29 13:19:30 +00:00",
+                    "item_types": [
+                        "amazon_product_info"
+                    ],
+                    "items_count": 1,
+                    "items": [
+                        {
+                            "type": "amazon_product_info",
+                            "rank_group": 1,
+                            "rank_absolute": 1,
+                            "position": "left",
+                            "xpath": "/#document",
+                            "title": "Kneipp Gift Pack Scented Candles Favourite \u2013 Set of Scented Candles from the Goodbye Stress Series, Deep Relaxation & Good Night Mood \u2013 Soothing Fragrances \u2013 One Candle Jar with 42 g Capacity",
+                            "details": "Package Dimensions\n\u200f\n:\n\u200e 14.2 x 6.7 x 5.6 cm; 42 Grams\nManufacturer\n\u200f\n:\n\u200e Kneipp GmbH\nASIN\n\u200f\n:\n\u200e B0BGWQBC87\nItem model number\n\u200f\n:\n\u200e 917649\nCountry of origin\n\u200f\n:\n\u200e Germany",
+                            "image_url": "https://m.media-amazon.com/images/I/61mzESrZmtL.__AC_SX300_SY300_QL70_ML2_.jpg",
+                            "author": "Visit the Kneipp Store",
+                            "data_asin": "B0BGWQBC87",
+                            "parent_asin": null,
+                            "product_asins": null,
+                            "price_from": 7.99,
+                            "price_to": null,
+                            "currency": "EUR",
+                            "is_amazon_choice": false,
+                            "rating": {
+                                "type": "rating_element",
+                                "position": "left",
+                                "rating_type": "Max5",
+                                "value": "4.3",
+                                "votes_count": 114,
+                                "rating_max": "5"
+                            },
+                            "is_newer_model_available": false,
+                            "newer_model": null,
+                            "categories": [
+                                {
+                                    "category": "Home & Kitchen",
+                                    "url": "/-/en/k%C3%83%C2%BCche-haushalt-wohnen/b/ref=dp_bc_aui_C_1?ie=UTF8&node=3167641"
+                                },
+                                {
+                                    "category": "Home Accessories",
+                                    "url": "/-/en/Deko-Wohnen-Lifestyle/b/ref=dp_bc_aui_C_2?ie=UTF8&node=3510351"
+                                },
+                                {
+                                    "category": "Candles & Holders",
+                                    "url": "/-/en/Kerzenst%C3%A4nder-Teelichthalter-Tisch-Bar-Accessoires/b/ref=dp_bc_aui_C_3?ie=UTF8&node=3312131"
+                                },
+                                {
+                                    "category": "Candles",
+                                    "url": "/-/en/Kerzen-Teelichter-Kerzenst%C3%A4nder-Teelichthalter/b/ref=dp_bc_aui_C_4?ie=UTF8&node=3312141"
+                                },
+                                {
+                                    "category": "Candle Sets",
+                                    "url": "/-/en/Kerzen-Sets/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2970864031"
+                                }
+                            ],
+                            "product_information": [
+                                {
+                                    "type": "product_information_extended_item",
+                                    "section_name": "Important information",
+                                    "contents": [
+                                        {
+                                            "type": "product_information_rows",
+                                            "title": "Ingredients:",
+                                            "rows": [
+                                                {
+                                                    "type": "product_information_text_row",
+                                                    "text": "Goodbye stress: LINALOOL, TETRAHYDROLINALOOL, EUCALYPTOL, HEXYL CINNAMAL, METHYLENEDIOXYPHENYL METHYLPROPANAL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES. Deep relaxation: Nopyl acetate, geraniol, citronellol, linalool. Good night mood: TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, L-ALPHA-PINENE, D, L-LIMONENE, LINALOOL, LINALYL ACETATE. "
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "product_information_extended_item",
+                                    "section_name": "Product description",
+                                    "contents": [
+                                        {
+                                            "type": "product_information_rows",
+                                            "title": "Product Description",
+                                            "rows": [
+                                                {
+                                                    "type": "product_information_text_row",
+                                                    "text": "Give Kneipp scented candles favourites for soothing fragrances and a special atmosphere. The tasting set consisting of a unique combination of 3 different fragrances offers the right fragrance for every mood situation and creates the desired ambience. In addition to the aromacological competence, our mini candles can also score points in the subject of sustainability. On the one hand, they are made from 100% natural rapeseed wax and with natural essential oils and on the other hand, the glasses are reusable after use, for example for standard tea lights. Kneipp scented candle Goodbye Stress: After a long day, the minty fresh fragrance with rosemary oil and watermint extract help to leave the hectic everyday life behind - Goodbye stress. Kneipp scented candle deep relaxation: the woody scent of the scented candle deep relaxation with sandalwood and patchouli enchants the senses and lets your mind come to peace. Kneipp scented candle good night mood: you need peace and relaxation in the evening for a restful night? The soothing, warm-woody fragrance of the Kneipp scented candle Good Night Mood with Swiss pine wood and amyris provides a relaxing atmosphere for your evening ritual. Good night - better morning!"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "product_information_rows",
+                                            "title": "Ingredients",
+                                            "rows": [
+                                                {
+                                                    "type": "product_information_text_row",
+                                                    "text": "Goodbye stress: LINALOOL, TETRAHYDROLINALOOL, EUCALYPTOL, HEXYL CINNAMAL, METHYLENEDIOXYPHENYL METHYLPROPANAL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES. Deep relaxation: Nopyl acetate, geraniol, citronellol, linalool. Good night mood: TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, L-ALPHA-PINENE, D, L-LIMONENE, LINALOOL, LINALYL ACETATE."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "product_information_details_item",
+                                    "section_name": "Technical Details",
+                                    "body": {
+                                        "Units": "\u200e1 st\u00fcck",
+                                        "Manufacturer contact": "\u200eD -97064 W\u00fcrzburg",
+                                        "Country of origin": "\u200eGermany",
+                                        "Brand": "\u200eKneipp"
+                                    }
+                                },
+                                {
+                                    "type": "product_information_details_item",
+                                    "section_name": "Additional Information",
+                                    "body": {
+                                        "ASIN": "B0BGWQBC87",
+                                        "Customer Reviews": "4.3 out of 5 stars",
+                                        "Best Sellers Rank": "1,997 in Home & Kitchen ( )\n3 in",
+                                        "Date First Available": "30 Sept. 2022"
+                                    }
+                                },
+                                {
+                                    "type": "product_information_details_item",
+                                    "section_name": "Product details",
+                                    "body": {
+                                        "Package Dimensions": "\u200e 14.2 x 6.7 x 5.6 cm; 42 Grams",
+                                        "Manufacturer": "\u200e Kneipp GmbH",
+                                        "ASIN": "\u200e B0BGWQBC87",
+                                        "Item model number": "\u200e 917649",
+                                        "Country of origin": "\u200e Germany",
+                                        "Customer reviews": "4.3 4.3 out of 5 stars 114 ratings"
+                                    }
+                                }
+                            ],
+                            "product_images_list": [
+                                "https://m.media-amazon.com/images/I/61mzESrZmtL._AC_SL1500_.jpg",
+                                "https://m.media-amazon.com/images/I/61V0KgOQzyL._AC_SL1500_.jpg",
+                                "https://m.media-amazon.com/images/I/71-Umu5rjOL._AC_SL1500_.jpg",
+                                "https://m.media-amazon.com/images/I/41hLHIo+QtL._AC_SL1181_.jpg"
+                            ],
+                            "product_videos_list": [
+                                "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/99df517a-3cfa-4a5d-be74-c1fbf16ddac9/default.jobtemplate.mp4.480.mp4"
+                            ],
+                            "description": "About this item\nWith rapeseed wax and natural essential oils\nIdeal as a gift for birthdays, Christmas, anniversary, Mother's or Father's Day\nSet of three scented candles in a glass: Goodbye Stess, Deep Relaxation & Good Night Mood\nAromacological competence\nMade in Germany",
+                            "is_available": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "version": "0.1.20230825",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.1300 sec.",
+    "cost": 0.001,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "09282235-6489-0209-0000-ee8a8edab860",
+            "status_code": 20100,
+            "status_message": "Task Created.",
+            "time": "0.0072 sec.",
+            "cost": 0.001,
+            "result_count": 0,
+            "path": [
+                "v3",
+                "merchant",
+                "amazon",
+                "products",
+                "task_post"
+            ],
+            "data": {
+                "api": "merchant",
+                "function": "products",
+                "location_name": "Germany",
+                "language_name": "English (United States)",
+                "keyword": "jar candles ",
+                "se_type": "organic",
+                "se": "amazon",
+                "device": "desktop",
+                "os": "windows"
+            },
+            "result": null
+        }
+    ]
+}

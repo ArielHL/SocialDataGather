@@ -1,0 +1,38 @@
+{
+    "version": "0.1.20230825",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.1332 sec.",
+    "cost": 0.0015,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "09291618-6489-0192-0000-76a16de5b854",
+            "status_code": 20100,
+            "status_message": "Task Created.",
+            "time": "0.0047 sec.",
+            "cost": 0.0015,
+            "result_count": 0,
+            "path": [
+                "v3",
+                "merchant",
+                "amazon",
+                "asin",
+                "task_post"
+            ],
+            "data": {
+                "api": "merchant",
+                "function": "asin",
+                "se": "amazon",
+                "location_name": "Germany",
+                "language_name": "English (United States)",
+                "asin": "B0BGWQBC87",
+                "se_type": "shopping",
+                "device": "desktop",
+                "os": "windows"
+            },
+            "result": null
+        }
+    ]
+}

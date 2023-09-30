@@ -1,0 +1,817 @@
+{
+  "search_parameters": {
+    "amazon_url": "https://www.amazon.de/dp/B08TQWYBXF",
+    "amazon_url_redirected": "https://www.amazon.de/dp/B08TQWYBXF?th=1",
+    "engine": "amazon",
+    "amazon_domain": "amazon.de",
+    "device": "desktop",
+    "type": "product",
+    "product_id": "B08TQWYBXF",
+    "scroll_to_bottom": true,
+    "wait_bottom_carousel": true,
+    "wait_for_video": true,
+    "wait_for_offers": true,
+    "gl": "de"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling"
+  },
+  "product_results": {
+    "parent_asin": "B0BWRVSNV1",
+    "product_id": "B08TQWYBXF",
+    "asin": "B08TQWYBXF",
+    "linked_asin": "B08TQWYBXF",
+    "title": "UNDER ARMOUR 510 g Beyond Gradient Schwarz/Chrom",
+    "keywords": [
+      "UNDER",
+      "ARMOUR",
+      "510",
+      "Beyond",
+      "Gradient",
+      "Schwarz/Chrom"
+    ],
+    "subtitle": {
+      "text": "Besuche den Under Armour-Store",
+      "link": "https://www.amazon.de/stores/UnderArmour/page/BE0B08DB-4583-4C8A-A689-CDE644FC7629?ref_=ast_bln"
+    },
+    "brand_store": {
+      "id": "BE0B08DB-4583-4C8A-A689-CDE644FC7629",
+      "link": "https://www.amazon.de/stores/UnderArmour/page/BE0B08DB-4583-4C8A-A689-CDE644FC7629?ref_=ast_bln"
+    },
+    "link": "https://www.amazon.de/UNDER-ARMOUR-Beyond-Gradient-Chrome/dp/B08TQWYBXF",
+    "available": true,
+    "availability_description": "Nur noch 1 auf Lager",
+    "price": {
+      "symbol": "€",
+      "value": 42.04,
+      "currency": "EUR",
+      "raw": "42,04€"
+    },
+    "parent_categories": [
+      {
+        "name": "Sport & Freizeit",
+        "link": "https://www.amazon.de/sport-freizeit-sportartikel/b/ref=dp_bc_aui_C_1/258-5674265-6807965?ie=UTF8&node=16435051",
+        "category_id": "16435051"
+      },
+      {
+        "name": "Sport & Outdoor Aktivitäten",
+        "link": "https://www.amazon.de/b/ref=dp_bc_aui_C_2/258-5674265-6807965?ie=UTF8&node=18199636031",
+        "category_id": "18199636031"
+      },
+      {
+        "name": "Camping & Outdoor",
+        "link": "https://www.amazon.de/Camping-Outdoor/b/ref=dp_bc_aui_C_3/258-5674265-6807965?ie=UTF8&node=16435151",
+        "category_id": "16435151"
+      },
+      {
+        "name": "Flaschen, Trinkbehälter & Filter",
+        "link": "https://www.amazon.de/Camping-Outdoor-Flaschen-Trinkbeh%C3%A4lter-Filter/b/ref=dp_bc_aui_C_4/258-5674265-6807965?ie=UTF8&node=3024178031",
+        "category_id": "3024178031"
+      },
+      {
+        "name": "Trinkflaschen",
+        "link": "https://www.amazon.de/Camping-Outdoor-Picknickbedarf-Trinkflaschen/b/ref=dp_bc_aui_C_5/258-5674265-6807965?ie=UTF8&node=3024181031",
+        "category_id": "3024181031"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Sport & Freizeit",
+        "link": "https://www.amazon.de/sport-freizeit-sportartikel/b/ref=dp_bc_aui_C_1/258-5674265-6807965?ie=UTF8&node=16435051",
+        "category_id": "16435051"
+      },
+      {
+        "name": "Sport & Outdoor Aktivitäten",
+        "link": "https://www.amazon.de/b/ref=dp_bc_aui_C_2/258-5674265-6807965?ie=UTF8&node=18199636031",
+        "category_id": "18199636031"
+      },
+      {
+        "name": "Camping & Outdoor",
+        "link": "https://www.amazon.de/Camping-Outdoor/b/ref=dp_bc_aui_C_3/258-5674265-6807965?ie=UTF8&node=16435151",
+        "category_id": "16435151"
+      },
+      {
+        "name": "Flaschen, Trinkbehälter & Filter",
+        "link": "https://www.amazon.de/Camping-Outdoor-Flaschen-Trinkbeh%C3%A4lter-Filter/b/ref=dp_bc_aui_C_4/258-5674265-6807965?ie=UTF8&node=3024178031",
+        "category_id": "3024178031"
+      },
+      {
+        "name": "Trinkflaschen",
+        "link": "https://www.amazon.de/Camping-Outdoor-Picknickbedarf-Trinkflaschen/b/ref=dp_bc_aui_C_5/258-5674265-6807965?ie=UTF8&node=3024181031",
+        "category_id": "3024181031"
+      }
+    ],
+    "categories_flat": "Sport & Freizeit > Sport & Outdoor Aktivitäten > Camping & Outdoor > Flaschen, Trinkbehälter & Filter > Trinkflaschen",
+    "brand": "Under Armour",
+    "product_overview": {
+      "Marke": "Under Armour",
+      "Kapazität": "18 Flüssigunzen",
+      "Farbe": "Farbverlauf Schwarz/Chrom",
+      "Besonderes Merkmal": "auslaufsicher, isoliert",
+      "Modellname": "Beyond Gradient"
+    },
+    "attributes": [
+      {
+        "key": "Marke",
+        "value": "Under Armour"
+      },
+      {
+        "key": "Kapazität",
+        "value": "18 Flüssigunzen"
+      },
+      {
+        "key": "Farbe",
+        "value": "Farbverlauf Schwarz/Chrom"
+      },
+      {
+        "key": "Besonderes Merkmal",
+        "value": "auslaufsicher, isoliert"
+      },
+      {
+        "key": "Modellname",
+        "value": "Beyond Gradient"
+      }
+    ],
+    "product_features": [
+      "Isoliert – Vakuumisolierte Flasche für maximale Temperaturerhaltung hält Getränke für 20 Stunden kalt, verschließbarer, auslaufsicherer Deckel hilft auch, den Ausguss sauber für ein frisches Getränk den ganzen Tag zu halten.",
+      "UNBREAKABLE - Unsere unzerbrechliche Edelstahl-Innen- und Außenseite bieten Haltbarkeit, auf die Sie sich verlassen können.",
+      "International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions."
+    ],
+    "feature_bullets": [
+      "Isoliert – Vakuumisolierte Flasche für maximale Temperaturerhaltung hält Getränke für 20 Stunden kalt, verschließbarer, auslaufsicherer Deckel hilft auch, den Ausguss sauber für ein frisches Getränk den ganzen Tag zu halten.",
+      "UNBREAKABLE - Unsere unzerbrechliche Edelstahl-Innen- und Außenseite bieten Haltbarkeit, auf die Sie sich verlassen können.",
+      "International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions."
+    ],
+    "feature_bullets_count": 3,
+    "feature_bullets_flat": "Isoliert – Vakuumisolierte Flasche für maximale Temperaturerhaltung hält Getränke für 20 Stunden kalt, verschließbarer, auslaufsicherer Deckel hilft auch, den Ausguss sauber für ein frisches Getränk den ganzen Tag zu halten. UNBREAKABLE - Unsere unzerbrechliche Edelstahl-Innen- und Außenseite bieten Haltbarkeit, auf die Sie sich verlassen können. International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.",
+    "main_image": "https://m.media-amazon.com/images/I/61JrFYY5RqS._AC_SL1500_.jpg",
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61JrFYY5RqS._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61pycUa1RZS._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61yV6-jCGoS._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61c-mDUJSOS._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61LZenapafS._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61wtl9dawhS._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81JJp7UGhfL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/61JrFYY5RqS._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61pycUa1RZS._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61yV6-jCGoS._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61c-mDUJSOS._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61LZenapafS._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61wtl9dawhS._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81JJp7UGhfL._AC_SL1500_.jpg",
+    "has_360_view": false,
+    "a_plus_content": {
+      "has_a_plus_content": false,
+      "has_premium_a_plus_content": false,
+      "has_brand_story": false
+    },
+    "search_alias": {
+      "name": "Küche, Haushalt & Wohnen",
+      "value": "kitchen"
+    },
+    "global_reviews": [
+      {
+        "id": "R2DT1MDY3EHW4R",
+        "title": "Keeps ice for hours!",
+        "verified_purchase": true,
+        "body": "I like this bottle a lot! It keeps ice all day or all night. My only beef is most of the time the lid cap does not pop up by itself so I have to open it manually with my other hand, instead of just pushing the button for a one-handed open. It's like it gets sealed tight when it's wet and the spring is not strong enough to open it without some help.",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">\n\n\n\n\n\n\n\n  \n    <span class=\"cr-original-review-content\">I like this bottle a lot!  It keeps ice all day or all night.  My only beef is most of the time the lid cap does not pop up by itself so I have to open it manually with my other hand, instead of just pushing the button for a one-handed open.  It's like it gets sealed tight when it's wet and the spring is not strong enough to open it without some help.</span><span class=\"cr-translated-review-content aok-hidden\"></span>\n  \n  \n</div><div class=\"a-expander-header a-expander-partial-collapse-header\" style=\"opacity: 0; display: none;\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Rezension vollständig anzeigen (ein / aus)\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Weiterlesen&quot;, &quot;collapse_prompt&quot;:&quot;Weniger lesen&quot;}\" data-csa-c-id=\"r9sukq-qywv1a-36stg0-pa4lun\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Weiterlesen</span></a></div></div>",
+        "date": "aus den Vereinigten Staaten vom 25. August 2023",
+        "rating": 5,
+        "profile": {
+          "avatar": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+          "name": "SteveInTennessee"
+        }
+      },
+      {
+        "id": "RNONM7HG94ETC",
+        "title": "A great improvement to the previous models!",
+        "verified_purchase": true,
+        "body": "I've been using these types of Under Armour water bottles for years. Their previous model of lids to go with these bottles were too fragile and would break easily if dropped. These new lids are a major improvement! I've dropped it and the lid didn't crack or break! The only thing I would change would be to make the spout circular instead of the teardrop type shape. I prefer to have the lid off to the side while drinking instead of straight up, because it's easier to drink from without your nose or forehead possibly hitting the lid. So with the spout being teardrop shape it's harder to drink from if you want the lid off to the side.All in all this is a great bottle that keeps things cold for a long time, and I would recommend it to others looking for a quality affordable stainless steel bottle.PS In the past (with the older model lids) the company sent me free replacement lids when I emailed the company, so you should try that before paying for replacements if these do end up breaking.",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">\n\n\n\n\n\n\n\n  \n    <span class=\"cr-original-review-content\">I've been using these types of Under Armour water bottles for years. Their previous model of lids to go with these bottles were too fragile and would break easily if dropped. These new lids are a major improvement! I've dropped it and the lid didn't crack or break! The only thing I would change would be to make the spout circular instead of the teardrop type shape. I prefer to have the lid off to the side while drinking instead of straight up, because it's easier to drink from without your nose or forehead possibly hitting the lid. So with the spout being teardrop shape it's harder to drink from if you want the lid off to the side.<br>All in all this is a great bottle that keeps things cold for a long time, and I would recommend it to others looking for a quality affordable stainless steel bottle.<br>PS In the past (with the older model lids) the company sent me free replacement lids when I emailed the company, so you should try that before paying for replacements if these do end up breaking.</span><span class=\"cr-translated-review-content aok-hidden\"></span>\n  \n  \n</div><div class=\"a-expander-header a-expander-partial-collapse-header\" style=\"opacity: 0; display: none;\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Rezension vollständig anzeigen (ein / aus)\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Weiterlesen&quot;, &quot;collapse_prompt&quot;:&quot;Weniger lesen&quot;}\" data-csa-c-id=\"nr28v3-k3rhx-uawm16-bp10fr\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Weiterlesen</span></a></div></div>",
+        "helpful_votes": 3,
+        "date": "aus den Vereinigten Staaten vom 3. September 2022",
+        "rating": 4,
+        "profile": {
+          "avatar": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+          "name": "Bex"
+        }
+      },
+      {
+        "id": "R1JRB0MSFSHFHO",
+        "title": "Keeps water very cold",
+        "verified_purchase": true,
+        "body": "This is the best water bottle I've ever had. It keeps water cold, even if you left it in in your hot car all day and sun was shining on it. I was surprised the water bottle felt warm to touch but Ice was still present inside at the end of the day.",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">\n\n\n\n\n\n\n\n  \n    <span class=\"cr-original-review-content\">This is the best water bottle I've ever had. It keeps water cold, even if you left it in in your  hot car all day and sun was shining on it. I was surprised the water bottle felt warm to touch but Ice was still present inside at the end of the day.</span><span class=\"cr-translated-review-content aok-hidden\"></span>\n  \n  \n</div><div class=\"a-expander-header a-expander-partial-collapse-header\" style=\"opacity: 0; display: none;\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Rezension vollständig anzeigen (ein / aus)\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Weiterlesen&quot;, &quot;collapse_prompt&quot;:&quot;Weniger lesen&quot;}\" data-csa-c-id=\"m027rk-z7nxwy-dj2jul-n5gpty\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Weiterlesen</span></a></div></div>",
+        "date": "aus den Vereinigten Staaten vom 14. August 2023",
+        "rating": 5,
+        "profile": {
+          "avatar": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+          "name": "Carolyn Sallion"
+        }
+      },
+      {
+        "id": "R1B4R7EBDI7KS9",
+        "title": "Big, looks cool...but",
+        "verified_purchase": true,
+        "body": "I got this for my son for his birthday because the part he drinks out of would remain covered and untouched as he would just need to push a button to flip the top open, then close it again. We washed it and filled it up for him to take to school and later basketball practice. On the way to school he asked me what the button on the top was for. I said I think it's just a logo not a button. He must have pushed on it and it fell inside. He had electrolyte powder mixed in there so it was cloudy and we couldn't see the black thing in there. Thankfully his sister fixed it later but he was without a water bottle that whole day. And I don't understand the purpose of that button that's not a button. Problematic if you give it to a curious child. Hopefully it will still be usable??",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">\n\n\n\n\n\n\n\n  \n    <span class=\"cr-original-review-content\">I got this for my son for his birthday because the part he drinks out of would remain covered and untouched as he would just need to push a button to flip the top open, then close it again.  We washed it and filled it up for him to take to school and later basketball practice.  On the way to school he asked me what the button on the top was for.  I said I think it's just a logo not a button.  He must have pushed on it and it fell inside.  He had electrolyte powder mixed in there so it was cloudy and we couldn't see the black thing in there.  Thankfully his sister fixed it later but he was without a water bottle that whole day.  And I don't understand the purpose of that button that's not a button.  Problematic if you give it to a curious child.  Hopefully it will still be usable??</span><span class=\"cr-translated-review-content aok-hidden\"></span>\n  \n  \n</div><div class=\"a-expander-header a-expander-partial-collapse-header\" style=\"opacity: 0; display: none;\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Rezension vollständig anzeigen (ein / aus)\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Weiterlesen&quot;, &quot;collapse_prompt&quot;:&quot;Weniger lesen&quot;}\" data-csa-c-id=\"9blpl5-tw754i-r0drh4-lilf1u\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Weiterlesen</span></a></div></div>",
+        "images": [
+          "https://m.media-amazon.com/images/I/71VlXdnQMBL.jpg"
+        ],
+        "date": "aus den Vereinigten Staaten vom 2. Dezember 2021",
+        "rating": 3,
+        "profile": {
+          "avatar": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+          "name": "K8tie5"
+        }
+      },
+      {
+        "id": "R2P9QTDLWM746S",
+        "title": "Doesn't keep things as cold as expected",
+        "verified_purchase": true,
+        "body": "I have a smaller sport bottle (also thermos made) but that one seemed to keep things cold for hours. This one doesn't seem nearly as effective. I would assume a different design? Still nice bottle. Only other complaint, when closing the pop open lid it often spitzes a little liquid, which for me, means getting it on my glasses. I'm learning to have to turn the bottle before closing the lid - not a big deal...",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">\n\n\n\n\n\n\n\n  \n    <span class=\"cr-original-review-content\">I have a smaller sport bottle (also thermos made) but that one seemed to keep things cold for hours. This one doesn't seem nearly as effective.  I would assume a different design?  Still nice bottle.  Only other complaint, when closing the pop open lid it often  spitzes a little liquid, which for me, means getting it on my glasses.  I'm learning to have to turn the bottle before closing the lid - not a big deal...</span><span class=\"cr-translated-review-content aok-hidden\"></span>\n  \n  \n</div><div class=\"a-expander-header a-expander-partial-collapse-header\" style=\"opacity: 0; display: none;\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Rezension vollständig anzeigen (ein / aus)\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Weiterlesen&quot;, &quot;collapse_prompt&quot;:&quot;Weniger lesen&quot;}\" data-csa-c-id=\"kxeuku-8n2rt5-2rugqu-eytkmz\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Weiterlesen</span></a></div></div>",
+        "date": "aus den Vereinigten Staaten vom 17. Mai 2022",
+        "rating": 4,
+        "profile": {
+          "avatar": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png",
+          "name": "Feierdrake"
+        }
+      }
+    ],
+    "buybox": {
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "delivery_available": true,
+      "secured_transaction": false,
+      "price": {
+        "symbol": "€",
+        "value": 42.04,
+        "currency": "EUR",
+        "raw": "42,04€"
+      },
+      "currency": "€",
+      "fulfillment": {
+        "delivery_location": "Hallo      Lieferadresse wählen"
+      },
+      "availability": {
+        "raw": "Nur noch 1 auf Lager",
+        "stock_level": "1"
+      }
+    },
+    "product_variations": [
+      {
+        "asin": "B08TR5PHCM",
+        "title": "Gradient Breeze/Chrom",
+        "link": "https://www.amazon.de/dp/B08TR5PHCM",
+        "is_current_product": false,
+        "dimensions": [
+          {
+            "name": "Farbe",
+            "value": "Gradient Breeze/Chrom"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71Zm8Zs5SGL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71Zm8Zs5SGL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61Vm1CW72RS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61Fkn5KEeRS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61BRT5SzYzS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61bmdWeLlfS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61mO9dmwlZS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81JJp7UGhfL._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "value": 52.58,
+          "currency": "EUR",
+          "raw": "52,58 €"
+        }
+      },
+      {
+        "asin": "B08TQWYBXF",
+        "title": "Farbverlauf Schwarz/Chrom",
+        "link": "https://www.amazon.de/dp/B08TQWYBXF",
+        "is_current_product": true,
+        "dimensions": [
+          {
+            "name": "Farbe",
+            "value": "Farbverlauf Schwarz/Chrom"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61JrFYY5RqS._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61JrFYY5RqS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61pycUa1RZS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61yV6-jCGoS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61c-mDUJSOS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61LZenapafS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61wtl9dawhS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81JJp7UGhfL._AC_SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "€",
+          "value": 42.04,
+          "currency": "EUR",
+          "raw": "42,04 €"
+        }
+      }
+    ],
+    "product_variations_asins_flat": "B08TR5PHCM,B08TQWYBXF",
+    "videos_count": 0,
+    "rating": 4.2,
+    "ratings_total": 106,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 63,
+        "count": 66
+      },
+      "four_star": {
+        "percentage": 16,
+        "count": 16
+      },
+      "three_star": {
+        "percentage": 8,
+        "count": 8
+      },
+      "two_star": {
+        "percentage": 5,
+        "count": 5
+      },
+      "one_star": {
+        "percentage": 8,
+        "count": 8
+      }
+    },
+    "other_sections": [
+      {
+        "title": "Empfohlene Artikel, die dir gefallen könnten",
+        "data": [
+          {
+            "title": "Amazon Basics Wasserflasche mit Filter, BPA-freies Tritan, 600 ml (Grün)",
+            "asin": "B08VFFWGWS",
+            "link": "https://www.amazon.de/dp/B08VFFWGWS",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/518cY6089GL._AC_UL160_SR160,160_.jpg",
+            "ratings_total": 152,
+            "price": {
+              "symbol": "€",
+              "value": 6.95,
+              "currency": "EUR",
+              "raw": "6,95€"
+            },
+            "is_prime": false
+          },
+          {
+            "title": "Under Armour Playmaker Wasserflasche, 1,8 l, Zaunhakengriff, Schutzdeckel mit Verschlussknopf, äußerer Körpergriff, für Kinder und Erwachsene, alle Sportarten, Baseball, Basketball, Fußball,",
+            "asin": "B08TR1FCYP",
+            "link": "https://www.amazon.de/dp/B08TR1FCYP",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/71wOvL4FcQL._AC_UL160_SR160,160_.jpg",
+            "ratings_total": 2,
+            "price": {
+              "symbol": "€",
+              "value": 34.9,
+              "currency": "EUR",
+              "raw": "34,90€"
+            },
+            "is_prime": false
+          },
+          {
+            "title": "Under Armour 680 ml Wasserflasche, Pro Deckelbezug, bruchsicher, Flecken- und geruchsresistent.",
+            "asin": "B08TR9HCXS",
+            "link": "https://www.amazon.de/dp/B08TR9HCXS",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/71xVT514eDL._AC_UL160_SR160,160_.jpg",
+            "ratings_total": 288,
+            "price": {
+              "symbol": "€",
+              "value": 23,
+              "currency": "EUR",
+              "raw": "23,00€"
+            },
+            "is_prime": false
+          }
+        ]
+      }
+    ],
+    "frequently_bought_together": {
+      "total_price": {
+        "symbol": "€",
+        "value": 64.94,
+        "currency": "EUR",
+        "raw": "64,94 €"
+      },
+      "products": [
+        {
+          "asin": "B08TQWYBXF",
+          "link": "https://www.amazon.de/dp/B08TQWYBXF",
+          "title": "UNDER ARMOUR 510 g Beyond Gradient Schwarz/Chrom",
+          "image": "https://images-eu.ssl-images-amazon.com/images/I/61JrFYY5RqS._AC_UL232_SR232,232_.jpg",
+          "price": {
+            "symbol": "€",
+            "value": 42.04,
+            "currency": "EUR",
+            "raw": "42,04€"
+          }
+        },
+        {
+          "asin": "B08TQHDVJY",
+          "link": "https://www.amazon.de/dp/B08TQHDVJY",
+          "title": "Under Armour 510 ml Grip Wasserflasche, Pro Deckelabdeckung, Silikon-Körpergriff, bruchsicher, flecken- und geruchsresistent, gut für Kinder",
+          "image": "https://images-eu.ssl-images-amazon.com/images/I/71-2gyqzl8L._AC_UL232_SR232,232_.jpg",
+          "price": {
+            "symbol": "€",
+            "value": 22.9,
+            "currency": "EUR",
+            "raw": "22,90€"
+          }
+        }
+      ]
+    },
+    "sponsored_products": [
+      {
+        "title": "Under Armour Contain Duo MD Duffle Duffels, Pitch Gray MEDIUM Heather, Einheitsgröße",
+        "asin": "B08LMHZFFJ",
+        "link": "https://www.amazon.de/dp/B08LMHZFFJ",
+        "image": "https://m.media-amazon.com/images/I/41FobhbrHPL._AC_SR320,320_.jpg",
+        "rating": 4.5,
+        "ratings_total": 442,
+        "price": {
+          "symbol": "€",
+          "value": 80,
+          "currency": "EUR",
+          "raw": "80,00 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "Under Armour Undeniable 5.0 SM Duffle Bag 1369222-002, Unisex Bag, black, One size EU",
+        "asin": "B093LN5BRC",
+        "link": "https://www.amazon.de/dp/B093LN5BRC",
+        "image": "https://m.media-amazon.com/images/I/31MONTVvs4L._AC_SR320,320_.jpg",
+        "rating": 4.5,
+        "ratings_total": 1,
+        "price": {
+          "symbol": "€",
+          "value": 33.73,
+          "currency": "EUR",
+          "raw": "33,73 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "Under Armour 510 g Beyond Academy",
+        "asin": "B08TQKG7RM",
+        "link": "https://www.amazon.de/dp/B08TQKG7RM",
+        "image": "https://m.media-amazon.com/images/I/31pqIKB9RiL._AC_SR320,320_.jpg",
+        "rating": 3.5,
+        "ratings_total": 299,
+        "price": {
+          "symbol": "€",
+          "value": 58.94,
+          "currency": "EUR",
+          "raw": "58,94 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "Under Armour 1362365 Halftime Backpack Rucksack, Pitch Gray Medium Heather/Black/Black (012), Einheitsgröße",
+        "asin": "B0875CGLSC",
+        "link": "https://www.amazon.de/dp/B0875CGLSC",
+        "image": "https://m.media-amazon.com/images/I/51VMPFp6kzL._AC_SR320,320_.jpg",
+        "rating": 4.5,
+        "ratings_total": 946,
+        "price": {
+          "symbol": "€",
+          "value": 36,
+          "currency": "EUR",
+          "raw": "36,00 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "UNDER ARMOUR 24oz Dominate Red",
+        "asin": "B08TQBSHB2",
+        "link": "https://www.amazon.de/dp/B08TQBSHB2",
+        "image": "https://m.media-amazon.com/images/I/315q9cHWJWS._AC_SR320,320_.jpg",
+        "rating": 4,
+        "ratings_total": 490,
+        "price": {
+          "symbol": "€",
+          "value": 52,
+          "currency": "EUR",
+          "raw": "52,00 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "Under Armour Unisex's Infinite Handheld, isoliert, reflektierend, 510 g, Schwarz, Einheitsgröße",
+        "asin": "B08TQBQX17",
+        "link": "https://www.amazon.de/dp/B08TQBQX17",
+        "image": "https://m.media-amazon.com/images/I/4187jxdeO-S._AC_SR320,320_.jpg",
+        "rating": 3.5,
+        "ratings_total": 12,
+        "price": {
+          "symbol": "€",
+          "value": 67.29,
+          "currency": "EUR",
+          "raw": "67,29 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "Under Armour Playmaker Sport-Krug, Wasserflasche mit Griff, schaumisoliert und auslaufsicher, 1,8 l, Schwarz/Schwarz",
+        "asin": "B0BT8K88SR",
+        "link": "https://www.amazon.de/dp/B0BT8K88SR",
+        "image": "https://m.media-amazon.com/images/I/31vDldEFiGL._AC_SR320,320_.jpg",
+        "rating": 4.5,
+        "ratings_total": 395,
+        "price": {
+          "symbol": "€",
+          "value": 52.64,
+          "currency": "EUR",
+          "raw": "52,64 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "Tolaccea 47L Sporttasche Groß Sporttasche Rucksack mit Schuhfach Nassfach Wochen Reisetasche Duffel Bag Fitness Trainingstasche für Herren Damen Gym,Reise,Schwimmen,Sauna,fußball (Grau)",
+        "asin": "B08B3HKZWQ",
+        "link": "https://www.amazon.de/dp/B08B3HKZWQ",
+        "image": "https://m.media-amazon.com/images/I/41AW1KYEtlL._AC_SR320,320_.jpg",
+        "rating": 4.5,
+        "ratings_total": 647,
+        "price": {
+          "symbol": "€",
+          "value": 47.99,
+          "currency": "EUR",
+          "raw": "47,99 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "skilly FBT120 Fitnesshandtuch I Fitness Handtuch 120x50cm I Sporthandtuch mit Antirutschfunktion I Handtuch aus 100% Baumwolle I XL (Shadow Black, 120x50cm)",
+        "asin": "B09PF3786Z",
+        "link": "https://www.amazon.de/dp/B09PF3786Z",
+        "image": "https://m.media-amazon.com/images/I/41xkQlrW3pL._AC_SR320,320_.jpg",
+        "rating": 4.5,
+        "ratings_total": 597,
+        "price": {
+          "symbol": "€",
+          "value": 27.99,
+          "currency": "EUR",
+          "raw": "27,99 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "The Gym Wasserflasche Zubehör für Frauen und Männer-Wasserflasche Strap Halter für Handy",
+        "asin": "B0BVQXL7B1",
+        "link": "https://www.amazon.de/dp/B0BVQXL7B1",
+        "image": "https://m.media-amazon.com/images/I/41hkE8OD+yL._AC_SR320,320_.jpg",
+        "rating": 4,
+        "ratings_total": 6,
+        "price": {
+          "symbol": "€",
+          "value": 16.99,
+          "currency": "EUR",
+          "raw": "16,99 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "Under Armour Herren Ua Surge 3 Laufschuhe, Pitch Gray, 40.5 EU",
+        "asin": "B09MYCXCK7",
+        "link": "https://www.amazon.de/dp/B09MYCXCK7",
+        "image": "https://m.media-amazon.com/images/I/41jYZ82Ns1L._AC_SR320,320_.jpg",
+        "rating": 4.5,
+        "ratings_total": 3,
+        "price": {
+          "symbol": "€",
+          "value": 46.98,
+          "currency": "EUR",
+          "raw": "46,98 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "Under Armour Contain Duo MD Duffle Duffels, Pitch Gray MEDIUM Heather, Einheitsgröße",
+        "asin": "B08LMHZFFJ",
+        "link": "https://www.amazon.de/dp/B08LMHZFFJ",
+        "image": "https://m.media-amazon.com/images/I/41FobhbrHPL._AC_SR320,320_.jpg",
+        "rating": 4.5,
+        "ratings_total": 442,
+        "price": {
+          "symbol": "€",
+          "value": 80,
+          "currency": "EUR",
+          "raw": "80,00 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "Under Armour Unisex Duffels Ua Undeniable 5.0 Sm Duffle Bag, Mdn, 1369222-410, OSFM",
+        "asin": "B093LRZ3DJ",
+        "link": "https://www.amazon.de/dp/B093LRZ3DJ",
+        "image": "https://m.media-amazon.com/images/I/3134-sFmMPL._AC_SR320,320_.jpg",
+        "rating": 4.5,
+        "ratings_total": 1,
+        "price": {
+          "symbol": "€",
+          "value": 37.18,
+          "currency": "EUR",
+          "raw": "37,18 €"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "Under Armour 1362365 Halftime Backpack Rucksack, Pitch Gray Medium Heather/Black/Black (012), Einheitsgröße",
+        "asin": "B0875CGLSC",
+        "link": "https://www.amazon.de/dp/B0875CGLSC",
+        "image": "https://m.media-amazon.com/images/I/51VMPFp6kzL._AC_SR320,320_.jpg",
+        "rating": 4.5,
+        "ratings_total": 946,
+        "price": {
+          "symbol": "€",
+          "value": 36,
+          "currency": "EUR",
+          "raw": "36,00 €"
+        },
+        "is_prime": false
+      }
+    ],
+    "also_viewed": [
+      {
+        "title": "Under Armour Playmaker Wasserflasche, 1,8 l, Zaunhakengriff, Schutzdeckel mit Verschlussknopf, äußerer Körpergriff, für Kinder und Erwachsene, alle Sportarten, Baseball, Basketball, Fußball,",
+        "asin": "B08TR1FCYP",
+        "link": "https://www.amazon.de/dp/B08TR1FCYP",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71wOvL4FcQL._AC_UL160_SR160,160_.jpg",
+        "ratings_total": 2,
+        "price": {
+          "symbol": "€",
+          "value": 34.9,
+          "currency": "EUR",
+          "raw": "34,90€"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "Under Armour 680 ml Grip Wasserflasche, Pro Deckelabdeckung, Silikon-Körpergriff, bruchsicher, flecken- und geruchsresistent",
+        "asin": "B08TR1L13R",
+        "link": "https://www.amazon.de/dp/B08TR1L13R",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71g1OfgdQgL._AC_UL160_SR160,160_.jpg",
+        "ratings_total": 716,
+        "price": {
+          "symbol": "€",
+          "value": 37.95,
+          "currency": "EUR",
+          "raw": "37,95€"
+        },
+        "is_prime": false
+      },
+      {
+        "title": "Under Armour 680 ml Wasserflasche, Pro Deckelbezug, bruchsicher, Flecken- und geruchsresistent.",
+        "asin": "B08TR9HCXS",
+        "link": "https://www.amazon.de/dp/B08TR9HCXS",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71xVT514eDL._AC_UL160_SR160,160_.jpg",
+        "ratings_total": 288,
+        "price": {
+          "symbol": "€",
+          "value": 23,
+          "currency": "EUR",
+          "raw": "23,00€"
+        },
+        "is_prime": false
+      }
+    ],
+    "offers": [
+      {
+        "price": {
+          "symbol": "€",
+          "value": 63.15,
+          "currency": "EUR",
+          "raw": "63,15€"
+        },
+        "delivery": "Lieferung für 10,70 € 14. - 20. Oktober. Details Oder schnellste Lieferung 28. - 30. September. Details ...  Mehr",
+        "sold_by": {
+          "name": "Bixem",
+          "link": "https://www.amazon.de/gp/aag/main?ie=UTF8&seller=A1OCV8TJWC033I&isAmazonFulfilled=0&asin=B08TQWYBXF&ref_=olp_merch_name_1"
+        },
+        "seller_rating": {
+          "total_ratings": 1061,
+          "rating": 4
+        }
+      },
+      {
+        "price": {
+          "symbol": "€",
+          "value": 63.15,
+          "currency": "EUR",
+          "raw": "63,15€"
+        },
+        "delivery": "Lieferung für 10,70 € 14. - 20. Oktober. Details Oder schnellste Lieferung 28. - 30. September. Details ...  Mehr",
+        "sold_by": {
+          "name": "Bixem",
+          "link": "https://www.amazon.de/gp/aag/main?ie=UTF8&seller=A1OCV8TJWC033I&isAmazonFulfilled=0&asin=B08TQWYBXF&ref_=olp_merch_name_2"
+        },
+        "seller_rating": {
+          "total_ratings": 1061,
+          "rating": 4
+        }
+      },
+      {
+        "price": {
+          "symbol": "€",
+          "value": 53.89,
+          "currency": "EUR",
+          "raw": "53,89€"
+        },
+        "delivery": "Lieferung für 30€ 30. September - 10. Oktober. Details ...  Mehr",
+        "sold_by": {
+          "name": "The Idea for Life",
+          "link": "https://www.amazon.de/gp/aag/main?ie=UTF8&seller=AJJP4LFEFPII7&isAmazonFulfilled=0&asin=B08TQWYBXF&ref_=olp_merch_name_3"
+        },
+        "seller_rating": {
+          "total_ratings": 21,
+          "rating": 4.5
+        }
+      },
+      {
+        "price": {
+          "symbol": "€",
+          "value": 88.29,
+          "currency": "EUR",
+          "raw": "88,29€"
+        },
+        "delivery": "GRATIS Lieferung 23. Oktober - 2. November. Details ...  Mehr",
+        "sold_by": {
+          "name": "SELECT ELITE",
+          "link": "https://www.amazon.de/gp/aag/main?ie=UTF8&seller=A11MV5GMFTPHNO&isAmazonFulfilled=0&asin=B08TQWYBXF&ref_=olp_merch_name_4"
+        },
+        "seller_rating": {
+          "total_ratings": 1702,
+          "rating": 3.5
+        }
+      }
+    ]
+  }
+}

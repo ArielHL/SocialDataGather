@@ -1,0 +1,150 @@
+{
+    "version": "0.1.20230825",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.0749 sec.",
+    "cost": 0,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "09281817-6489-0192-0000-b9434eb1f514",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.0180 sec.",
+            "cost": 0,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "merchant",
+                "amazon",
+                "asin",
+                "task_get",
+                "advanced",
+                "09281817-6489-0192-0000-b9434eb1f514"
+            ],
+            "data": {
+                "se_type": "shopping",
+                "api": "merchant",
+                "function": "asin",
+                "se": "amazon",
+                "language_code": "en_US",
+                "location_name": "Germany",
+                "asin": "B077SF2TN5",
+                "device": "desktop",
+                "os": "windows"
+            },
+            "result": [
+                {
+                    "asin": "B077SF2TN5",
+                    "type": "shopping",
+                    "se_domain": "amazon.de",
+                    "location_code": 2276,
+                    "language_code": "en_US",
+                    "check_url": "https://www.amazon.de/dp/B077SF2TN5?language=en_US",
+                    "datetime": "2023-09-28 15:17:46 +00:00",
+                    "item_types": [
+                        "amazon_product_info"
+                    ],
+                    "items_count": 1,
+                    "items": [
+                        {
+                            "type": "amazon_product_info",
+                            "rank_group": 1,
+                            "rank_absolute": 1,
+                            "position": "left",
+                            "xpath": "/#document",
+                            "title": "Yankee Candle Jar Candle In Jar",
+                            "details": "Product Dimensions \u200e10.7 x 10.7 x 16.8 cm; 621.42 Grams\nItem Weight \u200e621 Grams\nSpecific Uses For Product \u200eDekoration\nIs mold/mildew resistant \u200eParaben Free\nScent \u200eFrisch\nCare instructions \u200eHand Wash\nIs Assembly Required \u200eNo\nNumber Of Pieces \u200e1\nWarranty Description \u200e2 year manufacturer.\nBatteries Required \u200eNo\nIncluded Components \u200eCandle",
+                            "image_url": "https://m.media-amazon.com/images/I/81fCk4w5TwL.__AC_SX300_SY300_QL70_ML2_.jpg",
+                            "author": "Visit the Yankee Candle Store",
+                            "data_asin": "B077SF2TN5",
+                            "parent_asin": null,
+                            "product_asins": null,
+                            "price_from": 25.89,
+                            "price_to": null,
+                            "currency": "EUR",
+                            "is_amazon_choice": true,
+                            "rating": {
+                                "type": "rating_element",
+                                "position": "left",
+                                "rating_type": "Max5",
+                                "value": "4.5",
+                                "votes_count": 16486,
+                                "rating_max": "5"
+                            },
+                            "is_newer_model_available": false,
+                            "newer_model": null,
+                            "categories": [
+                                {
+                                    "category": "Home & Kitchen",
+                                    "url": "/-/en/k%C3%83%C2%BCche-haushalt-wohnen/b/ref=dp_bc_aui_C_1?ie=UTF8&node=3167641"
+                                },
+                                {
+                                    "category": "Home Accessories",
+                                    "url": "/-/en/Deko-Wohnen-Lifestyle/b/ref=dp_bc_aui_C_2?ie=UTF8&node=3510351"
+                                },
+                                {
+                                    "category": "Candles & Holders",
+                                    "url": "/-/en/Kerzenst%C3%A4nder-Teelichthalter-Tisch-Bar-Accessoires/b/ref=dp_bc_aui_C_3?ie=UTF8&node=3312131"
+                                },
+                                {
+                                    "category": "Candles",
+                                    "url": "/-/en/Kerzen-Teelichter-Kerzenst%C3%A4nder-Teelichthalter/b/ref=dp_bc_aui_C_4?ie=UTF8&node=3312141"
+                                },
+                                {
+                                    "category": "Jar Candles",
+                                    "url": "/-/en/Windlichter/b/ref=dp_bc_aui_C_5?ie=UTF8&node=4891970031"
+                                }
+                            ],
+                            "product_information": [
+                                {
+                                    "type": "product_information_details_item",
+                                    "section_name": "Technical Details",
+                                    "body": {
+                                        "Product Dimensions": "\u200e10.7 x 10.7 x 16.8 cm; 621.42 Grams",
+                                        "Item Weight": "\u200e621 Grams",
+                                        "Specific Uses For Product": "\u200eDekoration",
+                                        "Is mold/mildew resistant": "\u200eParaben Free",
+                                        "Scent": "\u200eFrisch",
+                                        "Care instructions": "\u200eHand Wash",
+                                        "Is Assembly Required": "\u200eNo",
+                                        "Number Of Pieces": "\u200e1",
+                                        "Warranty Description": "\u200e2 year manufacturer.",
+                                        "Batteries Required": "\u200eNo",
+                                        "Included Components": "\u200eCandle"
+                                    }
+                                },
+                                {
+                                    "type": "product_information_details_item",
+                                    "section_name": "Additional Information",
+                                    "body": {
+                                        "ASIN": "B077SF2TN5",
+                                        "Item model number": "1577119EZ",
+                                        "Date First Available": "22 Dec. 2017",
+                                        "Customer Reviews": "4.5 out of 5 stars",
+                                        "Best Sellers Rank": "4,048 in Home & Kitchen ( )\n8 in",
+                                        "Is Discontinued By Manufacturer": "No"
+                                    }
+                                }
+                            ],
+                            "product_images_list": [
+                                "https://m.media-amazon.com/images/I/81fCk4w5TwL._AC_SL1500_.jpg",
+                                "https://m.media-amazon.com/images/I/81xpyGgEjIL._AC_SL1500_.jpg",
+                                "https://m.media-amazon.com/images/I/81hZxH+432L._AC_SL1500_.jpg",
+                                "https://m.media-amazon.com/images/I/81mjbkgoXiL._AC_SL1500_.jpg",
+                                "https://m.media-amazon.com/images/I/81cHVNBngKL._AC_SL1500_.jpg",
+                                "https://m.media-amazon.com/images/I/81EVfsqA4iL._AC_SL1500_.jpg"
+                            ],
+                            "product_videos_list": [
+                                "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/3bf4ff0d-0702-4829-82c7-c90c8f5a76db/default.jobtemplate.mp4.480.mp4"
+                            ],
+                            "description": "About this item\nEach provides 110 to 150 hours of fragrance.\nH x W x D: 10.2 x 10.2 x 17.8 cm.\nWax.",
+                            "is_available": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
