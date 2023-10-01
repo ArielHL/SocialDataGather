@@ -2,16 +2,16 @@
     "version": "0.1.20230825",
     "status_code": 20000,
     "status_message": "Ok.",
-    "time": "0.1204 sec.",
+    "time": "0.0737 sec.",
     "cost": 0,
     "tasks_count": 1,
     "tasks_error": 0,
     "tasks": [
         {
-            "id": "09291619-6489-0193-0000-e7eb038caa83",
+            "id": "10010508-6753-0193-0000-69a3e7f54527",
             "status_code": 20000,
             "status_message": "Ok.",
-            "time": "0.0562 sec.",
+            "time": "0.0515 sec.",
             "cost": 0,
             "result_count": 2,
             "path": [
@@ -29,22 +29,22 @@
             },
             "result": [
                 {
-                    "id": "09281726-6489-0192-0000-638e5a34c042",
+                    "id": "10010418-6753-0192-0000-e6505ecd62af",
                     "se": "amazon",
                     "se_type": "shopping",
-                    "date_posted": "2023-09-28 14:26:17 +00:00",
+                    "date_posted": "2023-10-01 01:18:54 +00:00",
                     "tag": "",
-                    "endpoint_advanced": "/v3/merchant/amazon/asin/task_get/advanced/09281726-6489-0192-0000-638e5a34c042",
-                    "endpoint_html": "/v3/merchant/amazon/asin/task_get/html/09281726-6489-0192-0000-638e5a34c042"
+                    "endpoint_advanced": "/v3/merchant/amazon/asin/task_get/advanced/10010418-6753-0192-0000-e6505ecd62af",
+                    "endpoint_html": "/v3/merchant/amazon/asin/task_get/html/10010418-6753-0192-0000-e6505ecd62af"
                 },
                 {
-                    "id": "09291618-6489-0192-0000-76a16de5b854",
+                    "id": "10010507-6753-0192-0000-d8b3f9b9602b",
                     "se": "amazon",
                     "se_type": "shopping",
-                    "date_posted": "2023-09-29 13:18:47 +00:00",
+                    "date_posted": "2023-10-01 02:07:05 +00:00",
                     "tag": "",
-                    "endpoint_advanced": "/v3/merchant/amazon/asin/task_get/advanced/09291618-6489-0192-0000-76a16de5b854",
-                    "endpoint_html": "/v3/merchant/amazon/asin/task_get/html/09291618-6489-0192-0000-76a16de5b854"
+                    "endpoint_advanced": "/v3/merchant/amazon/asin/task_get/advanced/10010507-6753-0192-0000-d8b3f9b9602b",
+                    "endpoint_html": "/v3/merchant/amazon/asin/task_get/html/10010507-6753-0192-0000-d8b3f9b9602b"
                 }
             ]
         }

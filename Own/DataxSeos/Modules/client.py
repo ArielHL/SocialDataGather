@@ -1,8 +1,8 @@
 from http.client import HTTPSConnection
 from base64 import b64encode
-from json import loads
-from json import dumps
-from json import dump
+from json import loads , dumps, dump
+import datetime
+
 
 class RestClient:
     domain = "api.dataforseo.com"
@@ -38,19 +38,43 @@ class RestClient:
     def create_task(self,
                     post_data:dict,
                     task_type:str) -> str:
+        """
+        summary:
+        
+        Creates a task for the specified task type.
+        
+
+        Args:
+            post_data (dict): data to post to the server for the task creation, needs to be a dictionary
+            task_type (str): task type, needs to be a string 
+                            options:
+                                    products
+                                    asin
+                                    reviews
+
+        Raises:
+            Exception: _description_
+
+        Returns:
+            str: response in json
+            
+            """
+        
         
         if isinstance(post_data, dict) and isinstance(task_type, str):
             response = self.post(f"/v3/merchant/amazon/{task_type}/task_post", post_data)
            
             if response["status_code"] == 20000:
                 print("Task accepted")
-                print("Task id: %s." % response["tasks"][0]["id"])
+                print("Your task id is: %s." % response["tasks"][0]["id"])
                 
                 self._response = response
                 
                 # Saving response to json
+                timestamp=datetime.datetime.now()
+                current_time=timestamp.strftime("%d-%m-%Y_%H_%M_%S")
                 task_id=response['tasks'][0]['id']
-                path=f'./Task-Post/task_post_{task_id}.json'
+                path=f'./Task-Post/task_{task_type}_post_{task_id}_{current_time}.json'
                 self.save_response(response=response,path=path)
                 
                 return task_id
@@ -77,11 +101,20 @@ class RestClient:
         if isinstance(task_type, str):
             response = self.get(f"/v3/merchant/amazon/{task_type}/tasks_ready")
             if response["status_code"] == 20000:
-                path=f'./Task-Get/task_ready_list_{task_type}.json'
+                
+                # Saving response to json
+                timestamp=datetime.datetime.now()
+                current_time=timestamp.strftime("%d-%m-%Y_%H_%M_%S")
+                
+                path=f'./Task-Get/task_ready_list_{task_type}_{current_time}.json'
                 self.save_response(response=response,path=path)
                 
-                task_ready_list_ids=response['tasks'][0]['result']
-                return [task ['id'] for task in task_ready_list_ids]
+                try:
+                    task_ready_list_ids=response['tasks'][0]['result']
+                    return [task ['id'] for task in task_ready_list_ids]
+                except:
+                  
+                    return []
             
             else:
                 print("error. Code: %d Message: %s" % (response["status_code"], response["status_message"]))
@@ -99,7 +132,9 @@ class RestClient:
    
             
             # saving data to json
-            path=f"./Task-Get/task_get_by_id_{id}.json"
+            timestamp=datetime.datetime.now()
+            current_time=timestamp.strftime("%d-%m-%Y_%H_%M_%S")
+            path=f"./Task-Get/task_get_by_id_{id}_{current_time}.json"
             self.save_response(response=response,path=path)
             
             return response
