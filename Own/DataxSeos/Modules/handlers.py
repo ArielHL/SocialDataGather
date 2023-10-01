@@ -13,7 +13,9 @@ def json_to_df(path:str=None,
     if is_json:
         if path:
             # reading json file
-            result=json.loads(path)
+            with open(path) as json_file:
+                result = json.load(json_file)
+           
         else:
             raise Exception('No path provided')    
         
@@ -49,8 +51,10 @@ def json_to_df(path:str=None,
     if task_type=='reviews':
         # get item list
         item_list=result['tasks'][0]['result'][0]['items']
+        asin=result['tasks'][0]['data']['asin']
         # Create DataFrame
         df=pd.DataFrame(item_list)
+        df['asin']=asin
         # expand dataframe with rating data
         df= pd.concat([df,df['rating'].apply(pd.Series)],axis=1)
         df= pd.concat([df,df['user_profile'].apply(pd.Series)],axis=1)
